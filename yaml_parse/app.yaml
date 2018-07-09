@@ -1,8 +1,10 @@
 name: Alice's Appetizers
 location: MediaCityUK
 menu:
-- name: Garlic bread
+- name: &id001 Garlic bread
   price: 5.0
+- <<: *id001
+  price 3.0
 - name: Olives
   price: 4.0
 - name: Pizza
