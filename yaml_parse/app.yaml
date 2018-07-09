@@ -1,0 +1,7 @@
+name: Alice
+favourite_food: Lasagne
+pets:
+- dog:
+        name: Ben
+- cat: 
+        name: Charlie
