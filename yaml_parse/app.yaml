@@ -1,7 +1,11 @@
-name: Alice
-favourite_food: Lasagne
-pets:
-- dog:
-        name: Ben
-- cat: 
-        name: Charlie
+name: Alice's Appetizers
+location: MediaCityUK
+menu:
+- name: Garlic bread
+  price: 5.0
+- name: Olives
+  price: 4.0
+- name: Pizza
+  price: !!float 10
+- name: Mac & Cheese
+  price: 10.0
