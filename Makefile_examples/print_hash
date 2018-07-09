@@ -1,0 +1,4 @@
+HASH = $(shell git rev-parse --short HEAD)
+print:
+	$(info $(HASH))
+
